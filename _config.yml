@@ -1,0 +1,16 @@
+title: Azure Data Blog
+description: Blog técnico sobre Azure Data Platform, por Deygerson
+baseurl: ""
+url: "https://deygerson-mndz.github.io"
+theme: minima
+
+author:
+  name: Deygerson M.
+  email: deygerson@gmail.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
