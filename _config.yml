@@ -1,8 +1,8 @@
 title: Azure Data Blog
-description: Blog técnico sobre Azure Data Platform, por Deygerson
+description: Landing page técnica sobre Azure Data Platform por Deygerson
 baseurl: ""
 url: "https://deygerson-mndz.github.io"
-theme: minima
+theme: null
 
 author:
   name: Deygerson M.
@@ -11,16 +11,3 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-markdown: kramdown
-highlighter: rouge
-
-sass:
-  style: compressed
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "/assets/css/custom.css"
