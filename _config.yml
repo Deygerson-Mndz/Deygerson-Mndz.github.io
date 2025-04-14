@@ -14,3 +14,13 @@ plugins:
 
 markdown: kramdown
 highlighter: rouge
+
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
